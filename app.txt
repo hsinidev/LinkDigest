@@ -1,0 +1,30 @@
+﻿App Name: LinkDigest
+Version: 1.0.0
+Platform: Android / iOS
+Category: AI Productivity / Reading
+Target Market: Global (busy professionals, researchers, students)
+Price Model: Free 15 links/month + .99/month Pro
+
+Description:
+Paste any article, blog post, or YouTube URL and immediately get a clean
+3-point summary tailored to your profession or reading level.
+LinkDigest is for people who need to stay informed but have no time.
+
+Key Features:
+- Paste URL → instant 3-point summary in under 10 seconds
+- Profession filter: Engineer, Marketer, Executive, Student, General
+- Reading level selector: Simple, Intermediate, Expert
+- Supports: Web articles, YouTube (via transcript), Reddit, Medium, PDFs
+- Save summaries to personal digest library with search
+- Share summary as image card or plain text
+- Daily digest: auto-summarize links from your newsletter/browser history
+- Android share extension: share any link from Chrome to LinkDigest
+- Offline library of saved summaries
+
+Monetization:
+- Free: 15 links/month, 2 professions
+- Pro (.99/month): unlimited, all professions, PDF support, share cards, digest
+
+Target Audience: Consultants, researchers, newsletter writers, lifelong learners
+Competitors: Readwise Reader, TLDR This, Elicit, Perplexity
+Unique Value: Profession-targeted summaries — not generic AI summaries
